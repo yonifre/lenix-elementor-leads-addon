@@ -1,4 +1,5 @@
-=== Lenix Elementor Leads addon ===
+Lenix Elementor Leads addon
+
 Contributors: pshitik, yonifre
 Tags: Elementor, Leads, db, contact form db, elemntor form DB,lenix
 Requires at least: 4.5
@@ -18,13 +19,12 @@ The plugin conveniently centralizes all the leads we\'ve received like wordpress
 
 
 
-== Frequently Asked Questions ==
-= Where can I find the leads =
+== Frequently Asked Questions
+= Where can I find the leads
 After installation it will be possible to find the leads in the menu in the admin panel.
 
 
-== Changelog ==
-
+== Changelog
 = 1.5 =
 * Bug fix - php error
 
