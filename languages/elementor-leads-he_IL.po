@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lenix Elementor Leads addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-20 13:46+0000\n"
+"PO-Revision-Date: 2018-05-20 13:48+0000\n"
+"Last-Translator: moshe <pshitik@gmail.com>\n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: elementor-leads.php:45
+msgid "Elementor leads: Elementor Pro plugin is inactive!"
+msgstr "הודעה מאת אלמנטור לידים: התוסף אלמנטור פרו לא פעיל!"
+
+#: elementor-leads.php:53
+msgid "My leads"
+msgstr "פניות שהתקבלו"
+
+#: inc/class-lenix-elementor-forms.php:74
+msgid "No forms found yet"
+msgstr "לא נמצאו טפסים בינתיים"
+
+#: inc/class-lenix-elementor-forms.php:75
+msgid "To view forms, create at least one form"
+msgstr "לצפייה בטפסים, צור לפחות טופס אחד."
+
+#: inc/class-lenix-elementor-forms.php:82
+msgid "Form Name"
+msgstr "שם הטופס"
+
+#: inc/class-lenix-elementor-forms.php:83
+msgid "Form Location"
+msgstr "מיקום הטופס"
+
+#: inc/class-lenix-elementor-forms.php:84
+msgid "Leads Count"
+msgstr "מספר פניות"
+
+#: inc/class-lenix-elementor-forms.php:85
+msgid "Email Recipes"
+msgstr "מייל המקבל"
+
+#: inc/class-lenix-elementor-forms.php:86
+msgid "Actions"
+msgstr "ייצוא"
+
+#: inc/class-lenix-elementor-forms.php:152
+msgid "From"
+msgstr "מתאריך"
+
+#: inc/class-lenix-elementor-forms.php:156
+msgid "To"
+msgstr "עד"
+
+#: inc/class-lenix-elementor-forms.php:163
+msgid "Define Dates"
+msgstr "הגדר טווח תאריכים"
+
+#: inc/class-lenix-elementor-forms.php:167
+msgid "Export leads to csv"
+msgstr "ייצא שדות ל CSV"
+
+#: inc/class-lenix-elementor-forms.php:189
+msgid "Form Fields"
+msgstr "שדות הטופס"
+
+#: inc/class-lenix-elementor-forms.php:353
+msgid "Date"
+msgstr "תאריך"
+
+#: inc/class-lenix-elementor-forms.php:354
+msgid "Time"
+msgstr "זמן"
+
+#: inc/class-lenix-elementor-forms.php:440
+msgid "No leads found yet"
+msgstr "אין פניות במערכת עדיין"
+
+#: inc/elementor-api.php:40
+msgid "Lead #"
+msgstr "ליד מס' #"
+
+#: inc/meta-boxes.php:12
+msgid "No Label"
+msgstr "אין תווית"
+
+#: inc/meta-boxes.php:49
+msgid "Download File"
+msgstr "הורדת קובץ"
+
+#: inc/meta-boxes.php:71 inc/meta-boxes.php:72 inc/meta-boxes.php:82
+msgid "Elementor Leads"
+msgstr "לידים מטפסי אלמנטור"
+
+#: inc/postype-taxonomy.php:8
+msgctxt "Post Type General Name"
+msgid "Leads"
+msgstr "לידים"
+
+#: inc/postype-taxonomy.php:9
+msgctxt "Post Type Singular Name"
+msgid "Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:10 inc/postype-taxonomy.php:11
+msgid "Leads"
+msgstr "לידים"
+
+#: inc/postype-taxonomy.php:12
+msgid "Lead Archives"
+msgstr ""
+
+#: inc/postype-taxonomy.php:13
+msgid "Lead Attributes"
+msgstr ""
+
+#: inc/postype-taxonomy.php:14
+msgid "Parent Lead:"
+msgstr ""
+
+#: inc/postype-taxonomy.php:15
+msgid "All Leads"
+msgstr ""
+
+#: inc/postype-taxonomy.php:16 inc/postype-taxonomy.php:17
+msgid "Add New Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:18
+msgid "New Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:19
+msgid "Edit Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:20
+msgid "Update Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:21
+msgid "View Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:22
+msgid "View Leads"
+msgstr ""
+
+#: inc/postype-taxonomy.php:23
+msgid "Search Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:24
+msgid "No Leads"
+msgstr ""
+
+#: inc/postype-taxonomy.php:25
+msgid "No Leads found in Trash"
+msgstr ""
+
+#: inc/postype-taxonomy.php:26
+msgid "Featured Image"
+msgstr ""
+
+#: inc/postype-taxonomy.php:27
+msgid "Set featured image"
+msgstr ""
+
+#: inc/postype-taxonomy.php:28
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/postype-taxonomy.php:29
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/postype-taxonomy.php:30
+msgid "Insert into Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:31
+msgid "Uploaded to this Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:32
+msgid "Leads list"
+msgstr ""
+
+#: inc/postype-taxonomy.php:33
+msgid "Leads list navigation"
+msgstr ""
+
+#: inc/postype-taxonomy.php:34
+msgid "Filter Leads list"
+msgstr ""
+
+#: inc/postype-taxonomy.php:37
+msgid "Lead"
+msgstr ""
+
+#: inc/postype-taxonomy.php:38
+msgid "leads from forms"
+msgstr "מפניות מטפסים"
+
+#. Name of the plugin
+msgid "Lenix Elementor Leads addon"
+msgstr ""
+
+#. Description of the plugin
+msgid "Elementor leads By Lenix."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://lenix.co.il/plugin/lenix-elementor-leads-addon/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lenix"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://lenix.co.il/"
+msgstr ""

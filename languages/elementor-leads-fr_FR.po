@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-20 13:46+0000\n"
+"PO-Revision-Date: 2018-11-29 11:21+0100\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: FreePixel <contact@freepixel.net>\n"
+"Language: fr\n"
+
+#: elementor-leads.php:45
+msgid "Elementor leads: Elementor Pro plugin is inactive!"
+msgstr "Elementor leads : l’extension Elementor Pro n’est pas activée !"
+
+#: elementor-leads.php:53
+msgid "My leads"
+msgstr "Mes messages"
+
+#: inc/class-lenix-elementor-forms.php:74
+msgid "No forms found yet"
+msgstr "Aucun formulaire trouvé"
+
+#: inc/class-lenix-elementor-forms.php:75
+msgid "To view forms, create at least one form"
+msgstr "Pour afficher des formulaires, créez au moins un formulaire."
+
+#: inc/class-lenix-elementor-forms.php:82
+msgid "Form Name"
+msgstr "Nom du formulaire"
+
+#: inc/class-lenix-elementor-forms.php:83
+msgid "Form Location"
+msgstr "Position du formulaire"
+
+#: inc/class-lenix-elementor-forms.php:84
+msgid "Leads Count"
+msgstr "Nombre de messages"
+
+#: inc/class-lenix-elementor-forms.php:85
+msgid "Email Recipes"
+msgstr "Courriel de réception"
+
+#: inc/class-lenix-elementor-forms.php:86
+msgid "Actions"
+msgstr "Actions"
+
+#: inc/class-lenix-elementor-forms.php:152
+msgid "From"
+msgstr "De"
+
+#: inc/class-lenix-elementor-forms.php:156
+msgid "To"
+msgstr "À"
+
+#: inc/class-lenix-elementor-forms.php:163
+msgid "Define Dates"
+msgstr "Définir les dates"
+
+#: inc/class-lenix-elementor-forms.php:167
+msgid "Export leads to csv"
+msgstr "Exporter en .CSV"
+
+#: inc/class-lenix-elementor-forms.php:189
+msgid "Form Fields"
+msgstr "Champs du formulaire"
+
+#: inc/class-lenix-elementor-forms.php:353
+msgid "Date"
+msgstr "Date"
+
+#: inc/class-lenix-elementor-forms.php:354
+msgid "Time"
+msgstr "Heure"
+
+#: inc/class-lenix-elementor-forms.php:440
+msgid "No leads found yet"
+msgstr "Aucun message trouvé"
+
+#: inc/elementor-api.php:40
+msgid "Lead #"
+msgstr "Message #"
+
+#: inc/meta-boxes.php:12
+msgid "No Label"
+msgstr "Pas de libellé"
+
+#: inc/meta-boxes.php:49
+msgid "Download File"
+msgstr "Télécharger le fichier"
+
+#: inc/meta-boxes.php:71 inc/meta-boxes.php:72 inc/meta-boxes.php:82
+msgid "Elementor Leads"
+msgstr "Messages Elementor"
+
+#: inc/postype-taxonomy.php:8
+msgctxt "Post Type General Name"
+msgid "Leads"
+msgstr "Messages"
+
+#: inc/postype-taxonomy.php:9
+msgctxt "Post Type Singular Name"
+msgid "Lead"
+msgstr "Message"
+
+#: inc/postype-taxonomy.php:10 inc/postype-taxonomy.php:11
+msgid "Leads"
+msgstr "Messages"
+
+#: inc/postype-taxonomy.php:12
+msgid "Lead Archives"
+msgstr "Archives de messages"
+
+#: inc/postype-taxonomy.php:13
+msgid "Lead Attributes"
+msgstr "Attributs du message"
+
+#: inc/postype-taxonomy.php:14
+msgid "Parent Lead:"
+msgstr "Parent du message :"
+
+#: inc/postype-taxonomy.php:15
+msgid "All Leads"
+msgstr "Tous les messages"
+
+#: inc/postype-taxonomy.php:16 inc/postype-taxonomy.php:17
+msgid "Add New Lead"
+msgstr "Ajouter un nouveau message"
+
+#: inc/postype-taxonomy.php:18
+msgid "New Lead"
+msgstr "Nouveau message"
+
+#: inc/postype-taxonomy.php:19
+msgid "Edit Lead"
+msgstr "Modifier le Message"
+
+#: inc/postype-taxonomy.php:20
+msgid "Update Lead"
+msgstr "Mettre à jour le message"
+
+#: inc/postype-taxonomy.php:21
+msgid "View Lead"
+msgstr "Voir le message"
+
+#: inc/postype-taxonomy.php:22
+msgid "View Leads"
+msgstr "Voir les messages"
+
+#: inc/postype-taxonomy.php:23
+msgid "Search Lead"
+msgstr "Rechercher un message"
+
+#: inc/postype-taxonomy.php:24
+msgid "No Leads"
+msgstr "Pas de messages"
+
+#: inc/postype-taxonomy.php:25
+msgid "No Leads found in Trash"
+msgstr "Aucun message trouvé dans la corbeille"
+
+#: inc/postype-taxonomy.php:26
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: inc/postype-taxonomy.php:27
+msgid "Set featured image"
+msgstr "Définir comme image mise en avant"
+
+#: inc/postype-taxonomy.php:28
+msgid "Remove featured image"
+msgstr "Supprimez l’image mise en avant"
+
+#: inc/postype-taxonomy.php:29
+msgid "Use as featured image"
+msgstr "Utiliser comme image mise en avant"
+
+#: inc/postype-taxonomy.php:30
+msgid "Insert into Lead"
+msgstr "Insérer dans le message"
+
+#: inc/postype-taxonomy.php:31
+msgid "Uploaded to this Lead"
+msgstr "Téléchargé sur ce message"
+
+#: inc/postype-taxonomy.php:32
+msgid "Leads list"
+msgstr "Liste des messages"
+
+#: inc/postype-taxonomy.php:33
+msgid "Leads list navigation"
+msgstr "Navigation dans la liste des messages"
+
+#: inc/postype-taxonomy.php:34
+msgid "Filter Leads list"
+msgstr "Filtrer la liste des messages"
+
+#: inc/postype-taxonomy.php:37
+msgid "Lead"
+msgstr "Message"
+
+#: inc/postype-taxonomy.php:38
+msgid "leads from forms"
+msgstr "messages depuis les formulaires"
+
+#. Name of the plugin
+msgid "Lenix Elementor Leads addon"
+msgstr "Module Lenox Elementor Leads"
+
+#. Description of the plugin
+msgid "Elementor leads By Lenix."
+msgstr "Elementor leads By Lenix."
+
+#. URI of the plugin
+msgid "https://lenix.co.il/plugin/lenix-elementor-leads-addon/"
+msgstr "https://lenix.co.il/plugin/lenix-elementor-leads-addon/"
+
+#. Author of the plugin
+msgid "Lenix"
+msgstr "Lenox"
+
+#. Author URI of the plugin
+msgid "https://lenix.co.il/"
+msgstr "https://lenix.co.il/"
